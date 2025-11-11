@@ -30,5 +30,4 @@ This project explores flood risk patterns across various regions using environme
 
 ## 📣 Author
 **Krishnadas M (Kichu)**  
-Data Analyst Trainee | BCA Student | Dashboard Enthusiast  
-Connect on [LinkedIn](https://www.linkedin.com) *(insert your actual profile link)*
+Data Analyst  | BCA Student | Dashboard Enthusiast  
