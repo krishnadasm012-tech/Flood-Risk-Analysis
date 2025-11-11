@@ -4,7 +4,6 @@
 This project explores flood risk patterns across various regions using environmental and demographic data. It combines Excel-based data preparation, Power BI dashboarding, and PDF documentation to deliver insights on flood-prone areas, soil types, land cover, and infrastructure impact.
 
 ## 📁 Files Included
-- `flood_risk_dataset_india.csv` – Raw dataset containing environmental and demographic metrics.
 - `Flood_Risk_Analysis.xlsx` – Cleaned and processed Excel file with calculations and pivot tables.
 - `Flood_Risk_Analysis.pbix` – Power BI dashboard file with interactive visualizations.
 - `FLOOD DATASET.pdf` – Final report detailing methodology, findings, and visual summaries.
